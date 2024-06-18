@@ -1,4 +1,5 @@
 # 리액트 실습
+<pre>
 1. Node.j
 2. 리액트 설치
 
@@ -20,8 +21,10 @@ ES7+ React/Redux/React-Native snippets
 
 rfce
 rafce
+</pre>
 
 # 깃허브 파일올리기
+<pre>
 git init
 git branch -M main (이미 연결시 생략)
 git remote add origin [원격저장소주소] (이미 연결시 생략)
@@ -36,4 +39,5 @@ git commit -m "first commit"
 
 업로드(푸쉬)
 git push -u origin main
+</pre>
 
