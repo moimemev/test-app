@@ -15,7 +15,7 @@ npx create-react-app my-app
 [방법2] 
 vite 설치
 
-3. VS코드 확장 프로그램 설치
+<p>3. VS코드 확장 프로그램 설치</p>
 ES7+ React/Redux/React-Native snippets
 
 rfce
